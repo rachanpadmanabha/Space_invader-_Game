@@ -1,0 +1,40 @@
+#enemy
+
+    At first the game would start with 6 enemies randomly appearing whenever they are killed giving a +1 in score whenever they are hit with a bullet.
+
+    When the score reaches 50 boss one boss level enemy would appear having its own 3 bullets and it would take probably 20 to 30 bullets
+    to kill the boss giving a +20 on scoreboard
+
+    the game would continue again with 9 enemies with increase in their speed
+    the enemies would respawn every time they are hit with a bullet
+
+    when the score reaches 120
+
+    2 enemy bosses would appear shooting bullets randomly
+    each needing 30 bullets to be killed
+
+    the increment would happen in similar way every time this cycle happens
+
+    when the enemy would go out of the screen without dying it would be respawned to the screen again
+
+
+#player
+
+    the player would be having 3 lives where each life would be decremneted with a touch of enemy or boss's bullets
+
+    when the player lives reaches zero it would be game zero
+
+    the player will be provided with power ups in the middle of the game in an random manner
+
+        life power up: which would increase the player lives till it reaches 3 lives which will be the limit
+
+        bullet power up: this power up would increase the number of bullets being shot by the player, when lost a life the no. of bullets will be reset to one
+
+        shield power up: this power would give it protection for 1 life can be used once ig power up used at the same moment when one is activated
+                            no change would appear
+
+        total destroyer power up: would destroy all the enemies present in the screen and if the boss is present then would decrease its life by half of its life present in every level
+                                    this power up would appear ocassionaly and unlike other power ups won't be that common
+
+        laser power up : would give the player laser as its bullet where all the enemies appearing in the screen would die when they come in
+                            contact with the laser
